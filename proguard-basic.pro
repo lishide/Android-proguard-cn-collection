@@ -113,7 +113,7 @@
     java.lang.Object readResolve();
 }
 
-# 对于R（资源）下的所有类及其方法，都不能被混淆
+# 对于 R（资源）下的所有类及其方法，都不能被混淆
 -keep class **.R$* {
     *;
 }
