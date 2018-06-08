@@ -1,4 +1,6 @@
 # OkHttp
+# https://github.com/square/okhttp
+
 -dontwarn okhttp3.**
 -dontwarn okio.**
 -dontwarn javax.annotation.**
